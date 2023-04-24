@@ -3,21 +3,21 @@ This is a pet hotel login page that i had worked on in one of my IT classes, i f
 
 Directions:
 
-Login.php
+Login.php,
 the actual main page of the whole hotel login which upon signing in will take you to further options that can be done!
 
-firstOption
-secondOption
-thirdOption
-fourthOption
-fifthOption
-sixthOption
+firstOption,
+secondOption,
+thirdOption,
+fourthOption,
+fifthOption,
+sixthOption,
 All the above listed files are referring to each of the options there are in the actual website and all of them consists of source code to each specific option.
 
-furtherBooking
+furtherBooking,
 This file is further extension to the firstOption
 
-receptionist-db 
+receptionist-db ,
 This file provides the list of receptionist and their data!
 
 WEBSITE: https://web.njit.edu/~rmp32/login.php
