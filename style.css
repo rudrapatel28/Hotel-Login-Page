@@ -1,0 +1,96 @@
+body {
+			font-family: Monospace;
+			background-image: url(https://marketplace.canva.com/EAD29RnUHXo/2/0/1600w/canva-turquoise-dogs-and-paw-print-cute-zoom-virtual-background-6nPSmRqEqWw.jpg);
+			background-size: 100%;
+		}
+
+		.container {
+			background-color: #ADD8E6;
+			border-radius: 5px;
+			box-shadow:5px 5px white;
+			padding: 15px;
+			margin: 20px auto;
+			max-width: 700px;
+			color: brown;
+		}
+
+		h2 {
+			text-align:center;
+			color: brown;
+		}
+
+		form {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+		}
+
+		label {
+			margin: 10px 0;
+		}
+
+		input[type="text"], input[type="password"], input[type="number"], input[type="email"]  {
+			padding: 10px;
+			border-radius: 5px;
+			border: none;
+			margin-bottom: 20px;
+			width: 100%;
+			color: Brown;
+		}
+
+		input[type="checkbox"] {
+			margin-right: 10px;
+		}
+
+		input[type="submit"], input[type="reset"] {
+			background-color: brown;
+			color: white;
+			border: none;
+			border-radius: 5px;
+			padding: 10px 20px;
+			margin-top: 20px;
+			cursor: pointer;
+		}
+
+		input[type="submit"]:hover, input[type="reset"]:hover {
+			background-color: brown;
+		}
+
+		 select {
+			padding: 10px;
+			border-radius: 5px;
+			border: none;
+			margin-bottom: 20px;
+			width: 100%;
+			color: brown;
+		}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ADD8E6;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: brown;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #04AA6D;
+}
+
+			
+			
