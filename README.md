@@ -22,7 +22,7 @@ This file provides the list of receptionist and their data!
 
 WEBSITE: https://web.njit.edu/~rmp32/login.php
  
-Sample Login Info:
+Sample Login Info,
 Receptionist First Name: Paige
 Receptionist Last Name: Pup
 Password: PP11@
