@@ -19,8 +19,6 @@ This file is further extension to the firstOption
 
 receptionist-db ,
 This file provides the list of receptionist and their data!
-
-WEBSITE: https://web.njit.edu/~rmp32/login.php
  
 Sample Login Info,
 Receptionist First Name: Paige
